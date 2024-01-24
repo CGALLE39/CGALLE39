@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cynthia! :cherry_blossom:	:dizzy:	
+I'm Cynthia! :cherry_blossom::dizzy:	
 
 - 🔭 I’m currently working on a rewards app! 
 - 🌱 I’m currently learning React Native.
